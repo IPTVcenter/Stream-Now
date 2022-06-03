@@ -1151,7 +1151,20 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="LOCKLE",STAR PLUS HD (IN)
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
-
+#EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/d3ZNcauZ.png"  group-title="LOCKLE",STAR WORLD HD (IN)
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="SONY MAX HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Lad3I4Yq.png"  group-title="LOCKLE",SONY MAX HD (IN)
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gZcwSo7Q.png"  group-title="LOCKLE",SONY HD (IN)
+http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="GEO HD (PK)" tvg-logo="https://img.apkgit.com/61/com.snr.ent/3030/icon.png"  group-title="LOCKLE",GEO HD (PK)
+http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="HUM HD (PK)" tvg-logo="https://sc.dish.com/shared/images/station-logos/HUMTV.png"  group-title="LOCKLE",HUM HD (PK)
+http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="URDU 1 (PK)" tvg-logo="https://www.urdu1.tv/themes/urdu1tvc/images/logo.png"  group-title="LOCKLE",URDU 1 (PK)
+http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="GEO SUPER (PK)" tvg-logo="https://iconape.com/wp-content/files/qu/320296/png/320296.png"  group-title="LOCKLE",GEO SUPER (PK)
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
 
 
