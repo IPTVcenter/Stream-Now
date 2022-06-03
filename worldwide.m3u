@@ -861,8 +861,22 @@ http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVA SERIES" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ava-series-vipotv.png"  group-title="STREAM",AVA SERIES (IR)
 http://51.210.199.4/hls/stream.m3u8
 
-
-
+#EXTINF:-1 tvg-id="EROTIC" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png"  group-title="PINK-MEDIA",EROTIC (EU)
+http://54.36.123.36:8080/PinkErotic1/index.m3u8
+#EXTINF:-1 tvg-id="EROTIC 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png"  group-title="PINK-MEDIA",EROTIC 2 (EU)
+http://54.36.123.36:8080/PinkErotic2/index.m3u8
+#EXTINF:-1 tvg-id="EROTIC 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Pink_Erotic_3.png"  group-title="PINK-MEDIA",EROTIC 3 (EU)
+http://54.36.123.36:8080/PinkErotic3/index.m3u8
+#EXTINF:-1 tvg-id="EROTIC 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Pink_Erotic_4.png"  group-title="PINK-MEDIA",EROTIC 4 (EU)
+http://54.36.123.36:8080/PinkErotic4/index.m3u8
+#EXTINF:-1 tvg-id="EROTIC 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Pink_Erotic_5.png"  group-title="PINK-MEDIA",EROTIC 5 (EU)
+http://54.36.123.36:8080/PinkErotic5/index.m3u8
+#EXTINF:-1 tvg-id="EROTIC 6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Pink_Erotic_6.png"  group-title="PINK-MEDIA",EROTIC 6 (EU)
+http://54.36.123.36:8080/PinkErotic6/index.m3u8
+#EXTINF:-1 tvg-id="EROTIC 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Pink_Erotic_7.png"  group-title="PINK-MEDIA",EROTIC 7 (EU)
+http://54.36.123.36:8080/PinkErotic7/index.m3u8
+#EXTINF:-1 tvg-id="EROTIC 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Pink_Erotic_8.png"  group-title="PINK-MEDIA",EROTIC 8 (EU)
+http://54.36.123.36:8080/PinkErotic8/index.m3u8
 
 
 
