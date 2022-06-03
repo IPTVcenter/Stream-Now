@@ -467,7 +467,17 @@ https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 #EXTINF:-1 tvg-id="CARE WORLD" tvg-logo="http://www.careworldtv.com/wp-content/themes/ipt_careworld/images/logo.jpg"   group-title="NET-TV",CARE WORLD (IN)
 https://video.fjrh1-1.fna.fbcdn.net/v/t42.1790-2/263831824_1432060057208802_1299930053134895267_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjMwMCwicmxhIjo1NDgsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_ohc=h-VzhrgVrQ4AX9QbAqx&rl=300&vabr=165&_nc_ht=video.fjrh1-1.fna&edm=AItmks8EAAAA&oh=03909bfa0c5614e10232105e15f2d338&oe=61B16FC0
-
+#EXTINF:-1 tvg-id="RUNWAY TV" tvg-logo="http://www.runwaylive.com/wp-content/uploads/2016/06/runway-tv-bug-1.jpg"   group-title="NET-TV",RUNWAY TV (UK)
+https://vse-as-all25.secdn.net/runway-origin/live/runway/chunklist.m3u8
+#EXTINF:-1 tvg-id="JOO MUSIC" tvg-logo="https://www.joomusic.info/assets/images/logo.png"   group-title="NET-TV",JOO MUSIC (IN)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OM SHANTI" tvg-logo="http://www.omshantitv.org/wp-content/uploads/2018/09/Om-Shanti-Channel-1024x683.png"   group-title="NET-TV",OM SHANTI (IN)
+http://webcastcdnbkwsu.b-cdn.net/live/godlywood/index.m3u8?uid=5935850
+ 
+#EXTINF:-1 tvg-id="INH 24" tvg-logo="https://www.inhnews.in/images/logos/logo.png"  group-title="WMNCDN-TV",INH 24 (IN)
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="BANSAL NEWS (IN)" tvg-logo="https://bansalnews.com/wp-content/uploads/2020/12/BNWLogo-amp.png"  group-title="WMNCDN-TV",BANSAL NEWS (IN)
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8
 
 
 
