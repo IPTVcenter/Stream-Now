@@ -627,7 +627,18 @@ https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
 #EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9x-jalwa-black.png"  group-title="MX-TV",9X JALWA (IN)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
-
+#EXTINF:-1 tvg-id="9XM (IN)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"   group-title="MX-TV",9XM (IN)
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+#EXTINF:-1 tvg-id="GULISTAN NEWS (IN)" tvg-logo="https://gulistannews.in/wp-content/uploads/2019/08/logo.jpeg"  group-title="MX-TV",GULISTAN NEWS (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
+#EXTINF:-1 tvg-id="NEWS X (IN)" tvg-logo="https://www.newsx.com/wp-content/themes/newsxlite/images/newsx.png"  group-title="MX-TV",NEWS X (IN)
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
+#EXTINF:-1 tvg-id="NEWS INDIA (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/India_News.png"  group-title="MX-TV",NEWS INDIA (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 tvg-id="JANATA TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Janta_TV.jpeg"  group-title="MX-TV",JANATA TV (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
+#EXTINF:-1 tvg-id="SAMAY (IN)" tvg-logo="https://sites.google.com/site/livehinditvchannels/_/rsrc/1542286073409/samay-tv-live/samay%20live.jpg"  group-title="MX-TV",SAMAY (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
 
 
 
