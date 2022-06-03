@@ -878,7 +878,15 @@ http://54.36.123.36:8080/PinkErotic7/index.m3u8
 #EXTINF:-1 tvg-id="EROTIC 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Pink_Erotic_8.png"  group-title="PINK-MEDIA",EROTIC 8 (EU)
 http://54.36.123.36:8080/PinkErotic8/index.m3u8
 
-
+#EXTINF:-1 tvg-id="XY PLUS" tvg-logo="https://invivo.tv/invivo/images/slider/xy_plus.png"  group-title="OVSO", (UK)
+http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 tvg-id="XY MAX" tvg-logo="https://invivo.tv/invivo/images/slider/xy_max-768x343.png"  group-title="OVSO",XY MAX (UK)
+http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 tvg-id="XY MIX" tvg-logo="https://invivo.tv/invivo/images/slider/xy_mix.png"  group-title="OVSO",XY MIX (UK)
+http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
+#EXTINF:-1 tvg-id="PASSION XXX" tvg-logo="https://www.passionxxx.com/whitelabel/passion/images/logo_en.png"  group-title="OVSO",PASSION XXX (UK)
+http://95.87.227.29:8080/PASSIONXXX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="OVSO", (UK)
 
 
 
