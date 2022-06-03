@@ -978,8 +978,24 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_HD&q=400&e=junk.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Ten2_HD&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/S1bdqtRz.png"  group-title="JIO-TV",SONY TEN 3 (IN)
 http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_3&q=400&e=junk.m3u8
-
-
+#EXTINF:-1 tvg-id="EURO SPORTS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/LAaOWoOu.png"  group-title="JIO-TV",EURO SPORTS HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Dsports_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="DD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png"  group-title="JIO-TV",DD NEWS (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=DD_News&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="ABP NEWS" tvg-logo=" "  group-title="JIO-TV",ABP NEWS (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=ABP_News_India&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="AAJ TAK" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/amhZaoQu.png"  group-title="JIO-TV",AAJ TAK (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Aaj_Tak&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wdPs8bpF.png"  group-title="JIO-TV",ZEE NEWS (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_News&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="DY 365" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Vtn7CptZ.png"  group-title="JIO-TV",DY 365 (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=DY_365&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
+ 
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/R98nqztx.png"  group-title="DIRECT-TV",STAR BHARAT HD (IN)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"  group-title="DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 
 
 
