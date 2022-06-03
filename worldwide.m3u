@@ -946,8 +946,28 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=ID&q=400&e=junk.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Arre&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png"  group-title="JIO-TV",DANGAL (IN)
 http://103.139.171.5:5001/jiotvplus/live.php?c=Dangal&q=400&e=junk.m3u8
-
-
+#EXTINF:-1 tvg-id="CI HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FJTbKwJA.png"  group-title="JIO-TV",CI HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Infinity_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://static.toiimg.com/thumb/msid-45267582,width-800,height-600,resizemode-75/45267582.jpg"  group-title="JIO-TV",COMEDY CENTRAL (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Comedy_Central_SD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="INDIA SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/India_Science.png"  group-title="JIO-TV",INDIA SCIENCE (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=India_Science&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="JIO FOOTBALL" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png"  group-title="JIO-TV",JIO FOOTBALL (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Football&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="JIO CRICKET" tvg-logo=" "  group-title="JIO-TV",JIO CRICKET (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="JIO KIDS" tvg-logo=" "  group-title="JIO-TV",JIO KIDS (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_KIDS&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="GYAN BRIKSHYA" tvg-logo=" "  group-title="JIO-TV",GYAN BRIKSHYA (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Gyan_Brikshya&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/O3SqMe3e.png"  group-title="JIO-TV",SONY MAX (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Max_SD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/288dmSbW.png"  group-title="JIO-TV",AND PICTURES HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oggB1WhH.png"  group-title="JIO-TV",SONY MAX 2 (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_MAX2&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="ENTERR 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Enterr10_logo.png"  group-title="JIO-TV",ENTERR 10 (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Enterr_10&q=400&e=junk.m3u8
 
 
 
