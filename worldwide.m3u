@@ -904,8 +904,16 @@ http://103.72.179.30:1935/HindiMovies/STAR_GOLD.stream_720p/Playlist.m3u8
 http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8#
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
 
-
-
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"  group-title="JIO-TV",COLORS HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="TRAVEL XP HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/NeJIsLUN.png"  group-title="JIO-TV",TRAVEL XP HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Travel_XP&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="EPIC" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MljTkYku.png"  group-title="JIO-TV",EPIC (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Epic_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png"  group-title="JIO-TV",SONY BBC EARTH HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_BBC_Earth_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="HISTORY TV 18 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IiqVFncI.png"  group-title="JIO-TV",HISTORY TV 18 HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=History_18_Hindi&q=400&e=junk.m3u8
 
 
 
