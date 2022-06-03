@@ -154,11 +154,45 @@ https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/p
 #EXTINF:-1 tvg-id="REPUBLIC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Republic_TV.png"   group-title="WATCHO",REPUBLIC TV (IN)
 https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/789812/assetType/media/assetFileId/8035286/contextType/PLAYBACK/isAltUrl/False/a.m3u8?e=1651422600&h=0377efdf10569c58e8a45457270b3cfc&playSessionId=41b27a38-7e0d-856d-45ab-574c2db992e1:08d10ccd-0bfa-a3b0-aecb-f6e764ab0092&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3JlcHVibGljLXR2Lzc4OTgxMg==&clientTag=html5:v7.42
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV",BBC EARTH HD (IN)
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gXP7mJt1.png" group-title="SONYLIV",Sony PIX HD (IN)
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SONYLIV",SONY TEN1 HD (IN)
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SONYLIV",SONY TEN 2 HD (IN)
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SONYLIV",SONY TEN 2 (IN)
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SONYLIV",SONY TEN 3 HD (IN)
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png"  group-title="SONYLIV",SONY TEN 3 (IN)
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id="SONY SIX HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SONYLIV",Sony SIX HD (IN)
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY SIX" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SONYLIV",SONY SIX (IN)
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SONYLIV",SONY HD (IN)
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SONYLIV",SONY SAB HD (IN) 
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id="SONY PAL" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="SONYLIV",SONY PAL (IN)
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 ch-id="SONY YAY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png"  group-title="SONYLIV",SONY YAY (IN)
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 ch-id="SONY MAX HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Lad3I4Yq.png"  group-title="SONYLIV",SONY MAX HD (IN)
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5492474426001.png"  group-title="SONYLIV",SONY MAX (IN)
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonymax2_Masthead_Logo.png"  group-title="SONYLIV",SONY MAX 2 (IN)
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png"  group-title="SONYLIV",SONY WAH (IN)
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+ 
+#EXTINF:-1 tvg-id="DUBAI ONE" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/brand/dubaione-logo.png"   group-title="MANGOMOLO-TV",DUBAI ONE  (ME)
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://media.glassdoor.com/sqll/1054262/runnings-squarelogo-1637059179183.png"  group-title="MANGOMOLO-TV",RTV (ME)
+http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist.m3u8
 
 
 
