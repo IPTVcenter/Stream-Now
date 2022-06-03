@@ -549,9 +549,19 @@ https://peopletv-oando.akamaized.net/midroll/amagi_hls_data_peopletvA-peopletvoa
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
 #EXTINF:-1 tvg-id="3ABN" tvg-logo="https://3abn.org/img/logos/tv/3ABN.png"  group-title="AKAMAI-TV",3ABN (US)
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+#EXTINF:-1 tvg-id="3ABN PRAISE" tvg-logo="https://3abn.org/img/logos/tv/praise.png"  group-title="AKAMAI-TV",3ABN PRAISE (US)
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 tvg-id="D2D" tvg-logo="https://3abn.org/img/logos/tv/D2D.png"  group-title="AKAMAI-TV",D2D (US)
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1 tvg-id="DW (US)" tvg-logo="https://static.dw.com/image/52015610_101.png"  group-title="AKAMAI-TV",DW (US)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="AXS TV (US)" tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/axs_tv.jpg"  group-title="NET-TV",AXS TV (US)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="AUSBIZ (AU)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5e5091548bf5a551ea5d9dea/1582338795914-L4KPLRPXI13617OWE4T9/Logo%26Mark_White_Transparent%401x+%281%29.png"  group-title="NET-TV",AUSBIZ (AU)
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="POPSTAR! TV (IN)" tvg-logo="http://www.video.popstaronline.com/wp-content/uploads/2021/09/logo-new.png"   group-title="NET-TV",POPSTSR! TV (US)
+https://d3fmzhzockgffb.cloudfront.net/v1/master/ec9207ed6819582289cfdc7569d8065cc8aca126/DSP_5bc3d53d98f8159d11f1092c_li-1/playlist.m3u8?ads.us_privacy=1YNN&ads.url=https%3A%2F%2Fwww.video.popstaronline.com%2F&ads.w=280&ads.h=158&ads.cb=13352163516419940&ads.ip=2401:4900:3dc4:1509:4313:8c5e:9363:5a7c&ads.ua=Mozilla%2F5.0%20%28Linux%3B%20U%3B%20Android%208.0.0%3B%20en-US%3B%20Infinix%20X573%20Build%2FOPR1.170623.032%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4
 
 
 
