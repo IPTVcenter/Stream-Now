@@ -275,11 +275,26 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 #EXTINF:-1 tvg-id="I LOVE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFb-WD3eABOXuR9oWN4io02YdDtk4jYIlD5B013l9jY2PRS2h4kSEMsvkPqCGAo2OkmIUhuSjKJWaF_zhzWmx1jzX9ActnWRjg7T8TPWM4evkb1FwHDl1BBJhiyMt4e9QUoSOO1Xgg4-vjR6rGGnzJR1sHu5tJ5h6XMq3g3hUhSSip1U3i6p5jT1YS3w=s200"  group-title="ONLINE-TV",I LOVE (IN)
 https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 tvg-id="CITY NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/City_News_HD_Logo.png"  group-title="ONLINE-TV",CITY NEWS HD (PK)
+http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="DD VYAS (IN)" tvg-logo="https://webcast.gov.in/images/nic_logo_full.gif"  group-title="MEDIA-TV",DD VYAS (IN)
+https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
+#EXTINF:-1 tvg-id="SANSAD TV HD (IN)" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2021/10/Eng-Logo-1.png"  group-title="MEDIA-TV",SANSAD TV HD (IN)
+https://playhls.media.nic.in/live/rstv/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/413px-Cinemax_2016.svg.png"  group-title="IP",CINEMAX (TW)
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/01/hbo_logo-590x332.jpg"  group-title="IP",HBO (TW)
+http://ip2121.com:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC NEWS" tvg-logo="https://www.brainomix.com/media/j1lniei2/bbc-news_preview.png"  group-title="IP,BBC NEWS (TW)
+http://ip2121.com:8081/live/bbc/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png"  group-title="IP",CNN (TW)
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://thumbs.gfycat.com/FantasticMadHorsefly-size_restricted.gif"  group-title="IP",ALJAZEERA (TW)
+http://ip2121.com:8081/live/aljazeera/playlist.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://pbs.twimg.com/profile_images/1483044581428056066/oohjMmO9_400x400.jpg"  group-title="IP",DISCOVERY (TW)
+http://ip2121.com:8081/live/discovery/playlist.m3u8
 
 
 
