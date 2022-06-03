@@ -1091,8 +1091,32 @@ http://195.154.185.179:80/xx_brazzers_tv/index.m3u8
 http://195.154.185.179:80/xx_playboy_tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XX",  (UK)
 
-
-
+#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wCcSjiw5.png"  group-title="STREAM",SONY TEN 3 HD (IN)
+http://208.86.19.13:81/713.stream/index.m3u8
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://i.imgur.com/MfDgvB5.jpg"  group-title="STREAM",STAR BHARAT HD (IN)
+http://208.86.19.13:81/721.stream/index.m3u8
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg"   group-title="STREAM",ZEE BOLLYWOOD (IN)
+http://208.86.19.13:81/701.stream/index.m3u8
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gZMfypMa.png"  group-title="STREAM",ZEE ACTION (IN)
+http://208.86.19.13:81/728.stream/index.m3u8
+#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/288dmSbW.png"  group-title="STREAM",AND PICTURES HD (IN)
+http://208.86.19.13:81/705.stream/index.m3u8
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1ZpahMbB.png"  group-title="STREAM",AND TV HD (IN)
+http://208.86.19.13:81/703.stream/index.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oMFnZn1B.png"  group-title="STREAM",SONY TEN 2 HD (IN)
+http://208.86.19.13:81/712.stream/index.m3u8
+#EXTINF:-1 tvg-id="CBS" tvg-logo="https://mrantenna.com/wp-content/uploads/2016/01/cbs-logo.png"  group-title="STREAM",CBS (US)
+http://208.86.19.13:81/101.stream/index.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png"  group-title="STREAM",TBS (US)
+http://208.86.19.13:81/201.stream/index.m3u8
+#EXTINF:-1 tvg-id="A SPORTS HD" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png"  group-title="STREAM",A SPORTS HD (PK)
+http://208.86.19.13:81/602.stream/index.m3u8
+#EXTINF:-1 tvg-id="COLORS CINEPLEX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg"  group-title="STREAM",COLORS CINEPLEX HD (IN)
+http://208.86.19.13:81/735.stream/index.m3u8
+#EXTINF:-1 tvg-id="ION MYSTERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png"  group-title="STREAM",ION MYSTERY (US)
+http://208.86.19.13:81/111.stream/index.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT 2" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5989affc420c3c1917b60341/1600329108394/Star-Sports-Select-2_logo.png"  group-title="STREAM",STAR SPORTS SELECT 2 (IN)
+http://208.86.19.13:81/737.stream/index.m3u8
 
 
 
