@@ -1165,9 +1165,31 @@ http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="GEO SUPER (PK)" tvg-logo="https://iconape.com/wp-content/files/qu/320296/png/320296.png"  group-title="LOCKLE",GEO SUPER (PK)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-
-
-
+#EXTINF:-1 tvg-id="ZEE TV HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CMqUe8No.png"   group-title="LOCKLE",ZEE TV HD (IN)
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA HD (IN)" tvg-logo="https://1.bp.blogspot.com/-CBftCi6QNI8/YJ5ez-kQMwI/AAAAAAAAAuA/v86Zor7yhgEOeU17dyh7yu-74NtLvcwMQCLcBGAsYHQ/s0/IMG_20210308_170725.jpg"   group-title="LOCKLE",ZEE CINEMA HD (IN)
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="24 NEW HD (PK)" tvg-logo="https://www.qurbanionline.com/wp-content/uploads/2018/08/24_News.jpg"  group-title="LOCKLE",24 NEWS HD (PK)
+http://221.120.204.4/24-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="HUM NEWS (PK)" tvg-logo="https://www.pak24tv.com/images/humnews.jpg"  group-title="LOCKLE",HUM NEWS (PK)
+http://221.120.204.4/HUM-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="GTV NEWS (PK)" tvg-logo="https://i.ytimg.com/vi/UPEd-9OYZfA/maxresdefault.jpg"  group-title="LOCKLE",GTV NEWS (PK)
+http://221.120.204.4/GTV-NEWS-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="LAHORE RANG (PK)" tvg-logo="https://en.neonetwork.pk/digital_images/extra-large/2018-03-30/nai-baat-media-network-launches-lahore-rang-hd-1522417496-4620.jpg"  group-title="LOCKLE",LAHORE RANG (PK)
+http://221.120.204.4/LAHORE-RANG-LOCKLE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="PTV SPORTS (PK)" tvg-logo="https://gifincric.com/images/2019/12/PTV_Sports.png"  group-title="LOCKLE",PTV SPORTS (PK)
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+  
+#EXTINF:-1 tvg-id="HORNBILL TV (IN)" tvg-logo="http://www.hornbilltv.com/IMAGES/logo.png"  group-title="DIGITAL-TV",HORNBILL TV (IN)
+http://172.104.191.216:1935/hornbilltv/hornbilltv/chunklist.m3u8
+#EXTINF:-1 tvg-id="ONE GOLF (PK)"  tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png"   group-title="DIGITAL-TV",ONE GOLF (PK)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="PEACE TV (UK)" tvg-logo="https://www.globalvillagespace.com/wp-content/uploads/2019/07/Peace-TV-put-off-air-for-calling-LGBT-people-%E2%80%98worse-than-pigs%E2%80%99.jpg"  group-title="DIGITAL-TV",PEACE TV (UK)
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="BEACHY (UK)" tvg-logo="https://cdn.jwplayer.com/images/I8pR59Mr.png"  group-title="DIGITAL-TV",BEACHY (UK)
+http://30a-tv.com/beachy.m3u8
+#EXTINF:-1 tvg-id="JAN TV (IN)" tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg"  group-title="ONLINE-TV",JAN TV (IN)
+http://172.104.191.216:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
 
 
 
