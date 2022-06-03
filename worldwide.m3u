@@ -397,7 +397,23 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPOT LIGHT" tvg-logo="http://spotlight-tv.co.uk/wp-content/uploads/2020/12/spotlight-logo-small-white.png"   group-title="VISIONIP-TV",SPOT LIGHT (UK)
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="GOOD NEWS TV" tvg-logo=" "  group-title="VISIONIP-TV",GOOD NEWS TV (UK)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-goodnewstv-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="BRITISH MUSLIM TV" tvg-logo="https://pbs.twimg.com/profile_images/496946176554323968/mvKcSPoE_400x400.jpeg"  group-title="VISIONIP-TV",BRITISH MUSLIM TV (UK)
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://jacobmade.com/wp-content/uploads/2019/03/MTV-LOGO-WHITE.png"  group-title="PLUTO-TV",MTV (US)
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png"  group-title="PLUTO-TV",CNN (UK)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png"  group-title="PLUTO-TV",NICK (UK)
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1 tvg-id="NICK TOTALLY TURTLES" tvg-logo="https://ekwqh3zg566.exactdn.com/wp-content/uploads/2019/07/TMNT.jpg"  group-title="PLUTO-TV",NICK TOTALLY TURTLES (UK)
+https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+#EXTINF:-1 tvg-id="NICK JR DORA TV" tvg-logo="https://i.ytimg.com/vi/7wbkQ8emdx4/maxresdefault.jpg"  group-title="PLUTO-TV",NICK JR DORA TV (UK)
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png"  group-title="PLUTO-TV",NICK JR (UK)
+https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
 
 
 
