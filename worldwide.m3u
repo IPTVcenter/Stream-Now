@@ -1043,8 +1043,31 @@ http://144.217.70.181:9587/hin2/STARUTSAV/index.m3u8
 #EXTINF:-1 tvg-id="POGO" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/CewW8D3j.png"  group-title="DIRECT-TV",POGO (IN)
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
 
-
-
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"  group-title="UDP",COLORS HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.23:3001
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oMFnZn1B.png"  group-title="UDP",SONY TEN 2 HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.34:3001
+#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/wCcSjiw5.png"  group-title="UDP",SONY TEN 3 HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.35:3001
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Zee-Classic-Logo.jpg"  group-title="UDP",ZEE CLASSIC (IN)
+http://182.50.65.213:8888/udp/239.239.0.30:3001
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg"  group-title="UDP",STAR SPORTS SELECT 2 HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.5:3001
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jMu6eNnw.png"  group-title="UDP",SONY TEN 1 HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.33:3001
+#EXTINF:-1 tvg-id="HUNGAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/330px-Hungama_TV.svg.png"  group-title="UDP",HUNGAMA (IN)
+http://182.50.65.213:8888/udp/239.239.0.32:3001
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/o4akKNIp.png"  group-title="UDP",SONY SAB HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.15:3001
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Lad3I4Yq.png"  group-title="UDP",SONY MAX HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.16:3001
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gZcwSo7Q.png"  group-title="UDP",SONY HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.14:3001
+#EXTINF:-1 tvg-id="STAR GOLD SELECT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/SGSHD.jpg"  group-title="UDP",STAR GOLD SELECT HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.12:3001
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1ZpahMbB.png"  group-title="UDP",AND TV HD (IN)
+http://182.50.65.213:8888/udp/239.239.0.10:3001
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="UDP",  (IN)
 
 
 
