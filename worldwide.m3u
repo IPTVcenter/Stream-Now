@@ -453,6 +453,98 @@ https://v-ny.mybtv.net/live/562.m3u8
 https://v-ny.mybtv.net/live/559.m3u8
 #EXTINF:-1 tvg-id=" (US)" tvg-logo=""  group-title="MYBTV",  (US)
 
+#EXTINF:-1 tvg-id="MADNI TV (UK)" tvg-logo="https://pbs.twimg.com/profile_images/817625656855031810/6SaYFqhT.jpg"  group-title="NET-TV",MADNI TV (UK)
+https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/madnitvenglish/madnienglish_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="BKIDS HD (ID)" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg"   group-title="NET-TV",BKIDS HD (ID)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTINF:-1 tvg-id="ALJAZEERA (USA)" tvg-logo="https://c.tenor.com/5aaQW6UiR9sAAAAC/al-jazeera-news-channel-logo.gif"   group-title="NET-TV",ALJAZEERA (US)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="ARIRANG (ASIA)" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x54:700x519/x/photo/2021/11/01/1641809998.jpg"  group-title="NET-TV",ARIRANG (ASIA)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PARLIAMENT TV (NZ)" tvg-logo="https://i.ytimg.com/vi/msIOCuxKFCE/hqdefault.jpg"  group-title="NET-TV",PARLIAMENT TV (NZ)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="E AWAZ" tvg-logo="https://i0.wp.com/eawaz.com/wp-content/uploads/2020/12/EAWAZ-TV-LOGO-MUG.png"   group-title="NET-TV",E AWAZ (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+#EXTINF:-1 tvg-id="CARE WORLD" tvg-logo="http://www.careworldtv.com/wp-content/themes/ipt_careworld/images/logo.jpg"   group-title="NET-TV",CARE WORLD (IN)
+https://video.fjrh1-1.fna.fbcdn.net/v/t42.1790-2/263831824_1432060057208802_1299930053134895267_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjMwMCwicmxhIjo1NDgsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_ohc=h-VzhrgVrQ4AX9QbAqx&rl=300&vabr=165&_nc_ht=video.fjrh1-1.fna&edm=AItmks8EAAAA&oh=03909bfa0c5614e10232105e15f2d338&oe=61B16FC0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
