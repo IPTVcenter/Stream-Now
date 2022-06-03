@@ -914,7 +914,16 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Epic_HD&q=400&e=junk.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_BBC_Earth_HD&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-id="HISTORY TV 18 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IiqVFncI.png"  group-title="JIO-TV",HISTORY TV 18 HD (IN)
 http://103.139.171.5:5001/jiotvplus/live.php?c=History_18_Hindi&q=400&e=junk.m3u8
-
+#EXTINF:-1 tvg-id="RANG" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/i4xBn6Zm.png"  group-title="JIO-TV",RANG (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Rang&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="NEWS LIVE" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/WA4yObkv.png"  group-title="JIO-TV",NEWS LIVE (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Newslive&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="HI DOST!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Hi_dostv2.png"  group-title="JIO-TV",HI DOST! (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Hi_Dost&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg"  group-title="JIO-TV",ZEE CINEMA (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Cinema&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png"  group-title="JIO-TV",ZEE TV HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_TV_HD&q=400&e=junk.m3u8
 
 
 
