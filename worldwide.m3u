@@ -263,7 +263,18 @@ https://ottrbintl3.republicworld.com/httppush/ottrbintl_republic_hindi/ottrbintl
 https://livestream.jktvonline.com/hls/gul.m3u8
 #EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="ONLINE-TV",TBD (US)
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-
+#EXTINF:-1 tvg-id="BRICS TV (RU)" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/af/38/a1/af38a1ad-fda3-3a99-05a3-51166744fc2d/source/512x512bb.jpg"  group-title="ONLINE-TV",BRICS TV (RU)
+http://brics.bonus-tv.ru/cdn/brics/english/index.m3u8
+#EXTINF:-1 tvg-id="V2BEAT (UK)" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg"  group-title="ONLINE-TV",V2BEAT (UK)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="WFC.TV (UK)" tvg-logo="https://1.bp.blogspot.com/-FCx0QGisL_c/YTc-3SlTTRI/AAAAAAAABAA/04iIae7KxNAMSPqpXUZDShjZ_7MmaWjLwCLcBGAsYHQ/s200/PicsArt_09-07-03.58.21.png"  group-title="ONLINE-TV",WFC.TV (UK)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="NHK WORLD (JP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png"  group-title="ONLINE-TV",NHK WORLD (JP)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="WPT (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/World_Poker_Tour_Logo.svg/1200px-World_Poker_Tour_Logo.svg.png"  group-title="ONLINE-TV",WPT (US)
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+#EXTINF:-1 tvg-id="I LOVE" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjFb-WD3eABOXuR9oWN4io02YdDtk4jYIlD5B013l9jY2PRS2h4kSEMsvkPqCGAo2OkmIUhuSjKJWaF_zhzWmx1jzX9ActnWRjg7T8TPWM4evkb1FwHDl1BBJhiyMt4e9QUoSOO1Xgg4-vjR6rGGnzJR1sHu5tJ5h6XMq3g3hUhSSip1U3i6p5jT1YS3w=s200"  group-title="ONLINE-TV",I LOVE (IN)
+https://ilove.livebox.co.in/wowinhls/live.m3u8
 
 
 
