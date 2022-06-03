@@ -543,7 +543,12 @@ https://yuppsportsind.akamaized.net/121120/zingus/playlist.m3u8
 https://yuppsportsind.akamaized.net/121120/andtvhdus/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png "  group-title="AKAMAI-TV",ZEE TV HD (US)
 https://yuppsportsind.akamaized.net/121120/zeetvhdus/playlist.m3u8
-
+#EXTINF:-1 tvg-id="PEOPLE TV (US)" tvg-logo="https://image.roku.com/developer_channels/prod/a4e9c44a7164ad5e06bcd026aea372fdfe6c6aa6d636e9c82c32962668d5c08d.png"  group-title="AKAMAI-TV",PEOPLE TV (US)
+https://peopletv-oando.akamaized.net/midroll/amagi_hls_data_peopletvA-peopletvoando/CDN/playlist.m3u8?deviceid=f7cf553f-fb83-4953-bef2-06d2e1f6bd93
+#EXTINF:-1 tvg-id="3ABN INT" tvg-logo="https://3abn.org/img/logos/tv/3ABN-Int.png"  group-title="AKAMAI-TV",3ABN INT (US)
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 tvg-id="3ABN" tvg-logo="https://3abn.org/img/logos/tv/3ABN.png"  group-title="AKAMAI-TV",3ABN (US)
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 
 
 
