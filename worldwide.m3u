@@ -665,8 +665,28 @@ https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 #EXTINF:-1 tvg-id="SHEMAROO TV (IN)" tvg-logo="https://1.bp.blogspot.com/-y05BCpB8VSg/XqVv_5kQoPI/AAAAAAAAs_A/QE92QkRki9A8-3qDNmmR0S73fT19WTNtgCK4BGAsYHg/w1200-h630-p-k-no-nu/shemaroo-tv-hindi-entertainment-tv-channel-on-dd-freedish-min.jpg"  group-title="MX-TV",SHEMAROO TV (IN)
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
-
-
+#EXTINF:-1 tvg-id="CHANNEL WIN (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jk6lvnn4.png"  group-title="MX-TV",CHANNEL WIN (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in.m3u8
+#EXTINF:-1 tvg-id="JAN TV (IN)" tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg"  group-title="MX-TV",JAN TV (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/7078.JanTV.in.m3u8
+#EXTINF:-1 tvg-id="ABZY MOVIES (IN)" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Movies-200x90.png"  group-title="MX-TV",ABZY MOVIES (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
+#EXTINF:-1 tvg-id="ABZY DHAKAD (IN)" tvg-logo="https://logos.iphawk.com/in/4239830.jpg"  group-title="MX-TV",ABZY DHAKAD (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
+#EXTINF:-1 tvg-id="ABZY COOL (IN)" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Cool-200x90.png"  group-title="MX-TV",ABZY COOL (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
+#EXTINF:-1 tvg-id="AZAAD TV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Azaad_TV_Logo.png"  group-title="MX-TV",AZAAD TV (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
+#EXTINF:-1 tvg-id="SADHNA NATIONAL (IN)" tvg-logo="https://i.ytimg.com/vi/zKGzukWZKCU/maxresdefault.jpg"  group-title="MX-TV",SADHNA NATIONAL (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8076.SuperTv.in.m3u8
+#EXTINF:-1 tvg-id="TIMES NOW NAVBHARAT (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BhqEkV8c.png"  group-title="MX-TV",TIMES NOW NAVBHARAT (IN)
+https://m-c04-j2apps.s.llnwi.net/hls/8075.timesnownavbharat.in.m3u8
+#EXTINF:-1 tvg-id="UPDATE INDIA (IN)" tvg-logo=" "  group-title="MX-TV",UPDATE INDIA (IN)
+https://m-c09-j2apps.s.llnwi.net/hls/8067.UpdateIndia.in.m3u8
+#EXTINF:-1 tvg-id="WONDER (IN)" tvg-logo=" "  group-title="MX-TV",WONDER (IN)
+https://m-c09-j2apps.s.llnwi.net/hls/8084.Wonder.in.m3u8
+#EXTINF:-1 tvg-id="REAL STORIES (IN)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI0ZGVmYjAtOWI3NS00ZDk0LThmM2ItN2Q2ODAzZGZhMGZiXkEyXkFqcGdeQXVyMjMyODU0NTg@._V1_FMjpg_UX1000_.jpg"  group-title="MX-TV",REAL STROIES (IN)
+https://m-c010-j2apps.s.llnwi.net/hls/8081.RealStories.in.m3u8
 
 
 
