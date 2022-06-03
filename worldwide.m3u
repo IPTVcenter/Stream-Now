@@ -847,8 +847,19 @@ http://14.199.164.20:4001/play/a0mh/index.m3u8
 http://14.199.164.20:4001/play/a0zi/index.m3u8
 #EXTINF:-1 tvg-id="Q" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4k9pD8nk.png"  group-title="PLAY",Q (IN)
 http://14.199.164.20:4001/play/a0nk/index.m3u8
-
-
+#EXTINF:-1 tvg-id="SATVANI" tvg-logo="https://www.santvani.in/wp-content/uploads/2020/05/santvani-logo1.png"  group-title="PLAY",SATVANI (IN)
+http://14.199.164.20:4001/play/a0p6/index.m3u8
+#EXTINF:-1 tvg-id="PRATIDIN TIME" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QYfhpkre.png"  group-title="PLAY",PRATIDIN TIME (IN)
+http://14.199.164.20:4001/play/a0q3/index.m3u8
+#EXTINF:-1 tvg-id="REPUBLIC TV" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GocT3naX.png"  group-title="PLAY",REPUBLIC TV (IN)
+http://14.199.164.20:4001/play/a0r0/index.m3u8
+#EXTINF:-1 tvg-id="I LOVE" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/12/02/iLove.jpg"  group-title="PLAY",I LOVE (IN)
+http://14.199.164.20:4001/play/a0p3/index.m3u8
+ 
+#EXTINF:-1 tvg-id="AVA FAMILY" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/avafamily-vipotv-min.png"   group-title="STREAM",AVA FAMILY (IR)
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVA SERIES" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ava-series-vipotv.png"  group-title="STREAM",AVA SERIES (IR)
+http://51.210.199.4/hls/stream.m3u8
 
 
 
