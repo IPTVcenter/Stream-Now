@@ -253,7 +253,16 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="CBSN" tvg-logo="https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2019/09/60h-LA-white-stacked.png"   group-title="ONLINE-TV",CBSN (US)
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-
+#EXTINF:-1 tvg-id="REPUBLIC TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Republic_TV.png"   group-title="ONLINE-TV",REPUBLIC TV (IN)
+https://weblive.republicworld.com/httppush/ottr_republic_english/ottr/master.m3u8?e=1651389600&h=67242102ec7fc359b6b619159615c280
+#EXTINF:-1 tvg-id="REPUBLIC BHARAT (IN)" tvg-logo="https://www.examsegg.com/wp-content/uploads/2021/02/republic-bharat-logo-e1613310592185.jpg"  group-title="ONLINE-TV",REPUBLIC BHARAT (IN)
+https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/ottrb/master.m3u8?e=1651431600&h=f66a60a21c8b02a8690d98c6c5fda5bb
+#EXTINF:-1 tvg-id="REPUBLIC BHARAT (IN)" tvg-logo="https://www.examsegg.com/wp-content/uploads/2021/02/republic-bharat-logo-e1613310592185.jpg"  group-title="ONLINE-TV",REPUBLIC BHARAT (IN)
+https://ottrbintl3.republicworld.com/httppush/ottrbintl_republic_hindi/ottrbintl3/master.m3u8?e=1651410000&h=451b3f2f647081a12bb8f6792c76a49a
+#EXTINF:-1 tvg-id="GULISTAN NEWS" tvg-logo="https://gulistannews.in/wp-content/uploads/2019/08/logo.jpeg"  group-title="AMAGI-TV",GULISTAN NEWS (IN)
+https://livestream.jktvonline.com/hls/gul.m3u8
+#EXTINF:-1 tvg-id="TBD" tvg-logo="https://image.roku.com/developer_channels/prod/e575623dcddc5a0a30c6a9f0ec8b129069ca25bf3bc74a6c8d44d7bc0844d7cd.png"  group-title="ONLINE-TV",TBD (US)
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
 
 
