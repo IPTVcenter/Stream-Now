@@ -350,8 +350,25 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MOVIESPHEREUK (US)" tvg-logo="https://pbs.twimg.com/profile_images/1220039944174878721/-E50IOP__400x400.jpg"  group-title="AMAGI-TV",MOVIESPHEREUK (US)
 https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="AMMORUNTIME (US)" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2022/01/28/61e4f4846faea-384x384.png"  group-title="AMAGI-TV",AMMORUNTIME (US)
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SPORTSGRID (US)" tvg-logo="https://a.jsrdn.com/hls/22918/sportsgrid/logo_20201117_210342_68.png"  group-title="AMAGI-TV",SPORTSGRID (US)
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LOVE NATURE (US)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png"  group-title="AMAGI-TV",LOVE NATURE (US)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LEGO (US)" tvg-logo="https://media.designrush.com/inspirations/129839/conversions/_1611238414_61_lego-logo-1-preview.jpg"  group-title="AMAGI-TV",LEGO (US)
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="SMITH SONIANA CHANNEL (US)" tvg-logo="https://dreamdth.com/wp-content/uploads/2021/02/Smithsonian-Channel-Logo.png"   group-title="AMAGI-TV",SMIT SONIANA CHANNEL (US)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PAC12 (US)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/pac12_network.png"  group-title="AMAGI-TV",PAC12 (US)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BRAT TV (US)" tvg-logo="https://deadline.com/wp-content/uploads/2021/09/Brat-TV.png"  group-title="AMAGI-TV",BRAT TV (US)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TASTE MADE (US)" tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/05/01/tastemade-logo-600_lKOgSRW.jpg"  group-title="AMAGI-TV",TASTE MADE (US)
+https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN WILD" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/InWild_1000x1000_Circle.png"   group-title="AMAGI-TV",IN WILD (AU)
+https://inwild-samsungau.amagi.tv/playlist.m3u8
 
 
 
