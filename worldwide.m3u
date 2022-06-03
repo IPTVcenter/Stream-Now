@@ -968,6 +968,71 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=400&e=junk.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_MAX2&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-id="ENTERR 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Enterr10_logo.png"  group-title="JIO-TV",ENTERR 10 (IN)
 http://103.139.171.5:5001/jiotvplus/live.php?c=Enterr_10&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="DD SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/DD_Sports_2018.jpg"  group-title="JIO-TV",DD SPORTS (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=DD_Sports&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="OM SHANTI" tvg-logo="http://www.omshantitv.org/wp-content/uploads/2018/09/Om-Shanti-Channel-768x512.png"  group-title="JIO-TV",OM SHANTI (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Om_Shanti&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jMu6eNnw.png"  group-title="JIO-TV",SONY TEN 1 HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/oMFnZn1B.png"  group-title="JIO-TV",SONY TEN 2 HD (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Ten2_HD&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/S1bdqtRz.png"  group-title="JIO-TV",SONY TEN 3 (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_3&q=400&e=junk.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
