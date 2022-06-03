@@ -521,9 +521,28 @@ https://t04865-lh.akamaihd.net/i/t04865a_1@569562/index_3000000_av-p.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
 #EXTINF:-1 tvv-id="GOD TV (AU)" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png"  group-title="AKAMAI-TV",GOD TV (AU)
 https://zypelive-lh.akamaihd.net/i/default_1@745546/master.m3u8?6pLKMQ3y=pLK0uw32&F38b1dF4=624d77cb397cf0000126c1fc&dw=10800&video_id=5c35f39a5c7bfd130e0056b0&hdnts=exp%3D1649330507%7Eacl%3D%2F*%40745546%2F*%7Ehmac%3Dc0bf8300c4128a0f028aa2dcdb55840b1b032a9eb76f3e03604aebc4dc77d7c2
-
-
-
+#EXTINF:-1 tvg-id="FOX SPORTS NEWS (AU)" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png"  group-title="AKAMAI-TV",FOX SPORTS NEWS (AU)
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="EXPO (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Expo_2015_logo.png"  group-title="AKAMAI-TV",EXPO (AU)
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+#EXTINF:-1 tvg-id="ABC NEWS (US)" tvg-logo="https://letsgomum.com.au/wp-content/uploads/2017/07/abc-news-logo.png"  group-title="AKAMAI-TV",ABC NEWS (US)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="NJP WORLD (JP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1024px-NHK_World-Japan_TV.svg.png"  group-title="AKAMAI-TV",NJP WORLD (JP)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NEWS 18 ASSAM (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiw8FpyuCDs6PmldvnjDUBuLcL1p9VvGrO2KY1puw9v-gT41mTDNavO_4G1uBbBO8EbGnlp7RXmgESvtHSbQ3YwLfpQHTYvvSMy9I6Wwi0wg5WsaXJ-bbitp5J_N0rp5S8STc8YvFZpDhzNj9eSf-C1GydowZ5XfuMhaD5sYLCCwfF9QWNqW7FZ0suk=s200"  group-title="AKAMAI-TV",NEWS 18 ASSAM (IN)
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
+#EXTINF:-1 tvg-id="SKY2 (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sky2_logo_2008-2011.svg/1200px-Sky2_logo_2008-2011.svg.png"  group-title="AKAMAI-TV",SKY2 (AU)
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://www.exchange4media.com/news-photo/1524130730_wmUPKi_zoom_take_this.jpg"  group-title="AKAMAI-TV",ZOOM (US)
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_360_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 tvg-id="9XM" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png"  group-title="AKAMAI-TV",9XM (IN)
+https://yuppindott1.akamaized.net/hls/live/2015289/9xmusicindott/9xmusicindott/playlist.m3u8?dw=60&hdnts=st=1640308510~exp=1640322910~acl=!*/2015289/9xmusicindott/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=d1b0e64fbe0cc4c6815907ab1813913cd5c9e5b2344ff2afa95a335d70b6acd0&ud=1037_9xm_21691719_live_-1_-1&b=100-2500
+#EXTINF:-1 tvg-id="ZING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png"   group-title="AKAMAI-TV",ZING (US)
+https://yuppsportsind.akamaized.net/121120/zingus/playlist.m3u8
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvhd_0/list/1170x658withlogo_378606665.jpg"  group-title="AKAMAI-TV",AND TV HD (US)
+https://yuppsportsind.akamaized.net/121120/andtvhdus/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png "  group-title="AKAMAI-TV",ZEE TV HD (US)
+https://yuppsportsind.akamaized.net/121120/zeetvhdus/playlist.m3u8
 
 
 
