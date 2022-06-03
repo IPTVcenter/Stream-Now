@@ -369,10 +369,34 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IN WILD" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/InWild_1000x1000_Circle.png"   group-title="AMAGI-TV",IN WILD (AU)
 https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IN TROUBLE" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png"  group-title="AMAGI-TV",IN TROUBLE (IN)
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EDGE SPORTS" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5f6f52de1d058032c88afd13/1601131233440/EDGEsport+Dark.png"  group-title="AMAGI-TV",EDGE SPORTS (UK)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="SWAMIJI" tvg-logo="https://www.swamiji.tv/images/logo.png"  group-title="ONLINE-TV",SWAMIJI (IN)
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JOO MUSIC" tvg-logo="https://www.joomusic.info/assets/images/logo.png"  group-title="ONLINE-TV",JOO MUSIC (IN)
+https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DUNY NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg"  group-title="ONLINE-TV",DUNY NEWS (PK)
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="AD TV" tvg-logo="https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png"  group-title="BOZZ-TV",AD TV (US)
+https://bozztv.com/btrn03/amazingdtv-srt/index.m3u8
+ 
+#EXTINF:-1 tvg-id="AD TV"  tvg-logo="https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png" group-title="TULIX-TV",AD TV (CA)
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BETTER HEALTH" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-better-health-tv-7905.jpg"  group-title="TULIX-TV",BETTER HEALTH (US)
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 tvg-id="LIFE VISION" tvg-logo="http://www.lifevisiontv.com/shop/images/products/64fb0fbf2c9891079e0154b949ec82fb.jpg"  group-title="TULIX-TV",LIFE VISION (US)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NRB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/NRB_blue-768x530-1.png"  group-title="TULIX-TV",NRB TV (US)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="92 NEWS" tvg-logo="https://pbs.twimg.com/profile_images/940547058267717632/W0AAWT1v_400x400.jpg"  group-title="VISIONIP-TV",92 NEWS (UK)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SDq/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPOT LIGHT" tvg-logo="http://spotlight-tv.co.uk/wp-content/uploads/2020/12/spotlight-logo-small-white.png"   group-title="VISIONIP-TV",SPOT LIGHT (UK)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 
 
 
