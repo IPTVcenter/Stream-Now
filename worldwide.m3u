@@ -1069,8 +1069,27 @@ http://182.50.65.213:8888/udp/239.239.0.12:3001
 http://182.50.65.213:8888/udp/239.239.0.10:3001
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="UDP",  (IN)
 
-
-
+#EXTINF:-1 tvg-id="SEXTREME" tvg-logo="https://3.bp.blogspot.com/-X0DcNLI45_0/VgsCHTBetKI/AAAAAAAAldA/7hLYfIyR5Zc/s1600/Sextreme.png"  group-title="XX",SEXTREME  (UK)
+http://195.154.185.179:80/xx_prive_tv/index.m3u8
+#EXTINF:-1 tvg-id="EROTIC 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Pink_Erotic_4.png"  group-title="XX",EROTIC 4 (UK)
+http://195.154.185.179:80/xx_venus_tv/index.m3u8
+#EXTINF:-1 tvg-id="BALKAN EROTIC HD" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Balkan_Erotic_HD.png"  group-title="XX",BALKAN EROTIC HD (UK)
+http://195.154.185.179:80/xx_o_la_la_tv/index.m3u8
+#EXTINF:-1 tvg-id="VENUS" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c44df716446465.562abdd3db53b.png"  group-title="XX",VENUS (UK)
+http://195.154.185.179:80/xx_pink_o_tv/index.m3u8
+#EXTINF:-1 tvg-id="LEO TV" tvg-logo="https://stream.leotvonline.cz/upload/leotv-logo-3.png"  group-title="XX",LEO TV (UK)
+http://195.154.185.179:80/xx_leo_tv/index.m3u8
+#EXTINF:-1 tvg-id="EROTIC 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Pink_Erotic_3.png"  group-title="XX",EROTIC 3 (UK)
+http://195.154.185.179:80/xx_hot_tv/index.m3u8
+#EXTINF:-1 tvg-id="RK TV" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/Reality-Kings-TV.png"  group-title="XX",RK TV (UK)
+http://195.154.185.179:80/xx_hustler_tv/index.m3u8
+#EXTINF:-1 tvg-id="NAUGHTY" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Naughty.png"  group-title="XX",NAUGHTY (UK)
+http://195.154.185.179:80/xx_nuart_tv/index.m3u8
+#EXTINF:-1 tvg-id="BRAZZERS TV" tvg-logo="https://png.pngitem.com/pimgs/s/505-5052072_-hd-png-download.png"  group-title="XX",BRAZZERS TV (UK)
+http://195.154.185.179:80/xx_brazzers_tv/index.m3u8
+#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png"  group-title="XX",PLAYBOY TV (UK)
+http://195.154.185.179:80/xx_playboy_tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="XX",  (UK)
 
 
 
