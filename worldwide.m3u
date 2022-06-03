@@ -415,9 +415,36 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png"  group-title="PLUTO-TV",NICK JR (UK)
 https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="COZI TV (US)" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png"  group-title="MYBTV",COZI TV (US)
+https://v-la.mybtv.net/live/983.m3u8
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://images.jtv.com/media/jtv-site/resources/images/logo-blue@2x.png"  group-title="MYBTV",JTV (US)
+https://v-la.mybtv.net/live/101.m3u8
+#EXTINF:-1 tvg-id=" (US)" tvg-logo=""  group-title="MYBTV",  (US)
+https://v-la.mybtv.net/live/73.m3u8
+#EXTINF:-1 tvg-id="ME TV (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Me-TV_Hollywood.png"  group-title="MYBTV",ME TV  (US)
+https://v-la.mybtv.net/live/268.m3u8
+#EXTINF:-1 tvg-id="FOX NEWS (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png"  group-title="MYBTV",FOX NEWS (US)
+https://v-pi.mybtv.net/live/369.m3u8
+#EXTINF:-1 tvg-id=" (US)" tvg-logo=""  group-title="MYBTV",  (US)
+https://v-px.mybtv.net/live/428.m3u8
+#EXTINF:-1 tvg-id="ION MYSTERY (US)" tvg-logo="https://cdn.mos.cms.futurecdn.net/uwvHcvUHZqxC86sV3GCSvH-320-80.png"  group-title="MYBTV",ION MYSTERY  (US)
+https://v-px.mybtv.net/live/5.m3u8
+#EXTINF:-1 tvg-id="CSN (US)" tvg-logo="https://i.ytimg.com/vi/dVnW-jEOaW0/maxresdefault_live.jpg"  group-title="MYBTV",CSN (US)
+https://v-ca.mybtv.net/live/223.m3u8
+#EXTINF:-1 tvg-id="ABC 6 (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/800px-WPVI-TV_logos.svg.png"  group-title="MYBTV",ABC 6  (US)
+https://v-pi.mybtv.net/live/333.m3u8
+#EXTINF:-1 tvg-id="REW TV (US)" tvg-logo="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_white_withtagline-300x92.png"  group-title="MYBTV",REW TV  (US)
+https://v-ny.mybtv.net/live/565.m3u8
+#EXTINF:-1 tvg-id=" (US)" tvg-logo=""  group-title="MYBTV",  (US)
+https://v-ny.mybtv.net/live/562.m3u8
+#EXTINF:-1 tvg-id=" (US)" tvg-logo=""  group-title="MYBTV",  (US)
+https://v-ny.mybtv.net/live/559.m3u8
+#EXTINF:-1 tvg-id="PHL 17 (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/1200px-WPHL-TV_logo.svg.png"  group-title="MYBTV",PHL 17 (US)
+https://v-pi.mybtv.net/live/355.m3u8
+#EXTINF:-1 tvg-id="LAFF (US)" tvg-logo="https://www.laff.com/wp-content/uploads/2015/04/laff-logo-motto1.png"  group-title="MYBTV",LAFF  (US)
+https://v-pi.mybtv.net/live/416.m3u8
+#EXTINF:-1 tvg-id=" (US)" tvg-logo=""  group-title="MYBTV",  (US)
+https://v-la.mybtv.net/live/81.m3u8
 
 
 
