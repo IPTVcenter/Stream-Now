@@ -607,8 +607,26 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:-1 tvg-id="MANORANJAN MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg"  group-title="MX-TV",MANORANJAN MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-
-
+#EXTINF:-1 tvg-id="MAHA MOVIE (IN)" tvg-logo="https://dishnews.in/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-01-at-4.43.02-PM-300x169.jpeg"  group-title="MX-TV",MAHA MOVIE (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 tvg-id="MOVIE PLUS (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Movie-Plus.png"  group-title="MX-TV",MOVIE PLUS (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1 tvg-id="DD NATIONAL (IN)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-250/list/1170x658withlogo_436360213.jpg"   group-title="MX-TV",DD NATIONAL (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 tvg-id="MASTIII (IN)" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20210615_172118_68.png"  group-title="MX-TV",MASTIII (IN)
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+#EXTINF:-1 tvg-id="B4U MUSIC (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cbPGMHb9.png"  group-title="MX-TV",B4U MUSIC (IN)
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1 tvg-id="NEWS NATION (IN)" tvg-logo="https://heartbeatsz.com/wp-content/uploads/2021/01/news12.png"  group-title="MX-TV",NEWS NATION (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+#EXTINF:-1 tvg-id="INDIA TV (IN)" tvg-logo="https://ixceed-solutions.co.uk/wp-content/uploads/2021/05/indiatv.png"  group-title="MX-TV",INDIA TV (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:-1 tvg-id="DD ASSAM (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/DD_Assam_logo.jpeg"   group-title="MX-TV",DD ASSAM (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
+#EXTINF:-1 tvg-id="DD KASHIR (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/DD_Kashir.jpg"  group-title="MX-TV",DD KASHIR (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
+#EXTINF:-1 tvg-id="9X JALWA (IN)" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9x-jalwa-black.png"  group-title="MX-TV",9X JALWA (IN)
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 
 
 
