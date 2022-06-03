@@ -505,8 +505,22 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="NDTV PROFIT (IN)" tvg-logo="https://i.ndtvimg.com/i/2015-08/640kjkj_640x480_51438669552.jpg"  group-title="AKAMAI-TV",NDTV PROFIT (IN)
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-
-
+#EXTINF:-1 tvg-id="GNT (IN)" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2021/09/GNT-Logo1_10.jpg"  group-title="AKAMAI-TV",GNT (IN)
+https://tezlive-amd.akamaized.net/hls/live/2016145-b/tez/tezlive/tez_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="CNBC TV 18 (IN)" tvg-logo="https://pbs.twimg.com/profile_images/633210816485965824/0cQi0eZS.jpg"  group-title="AKAMAI-TV",CNBC TV 18 (IN)
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="CNBC AWAAZ (IN)" tvg-logo="https://itnewsnet.com/wp-content/uploads/2020/09/CNBC-Awaaz-Live-News-TV-Channel-in-India-min.jpg"  group-title="AKAMAI-TV",CNBC AWAAZ (IN)
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="REDBULL TV (ME)" tvg-logo="https://logodix.com/logo/656122.jpg"  group-title="AKAMAI-TV",REDBULL TV (ME)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="HSN (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/HSN.png"  group-title="AKAMAI-TV",HSN (US)
+http://html5-lh.akamaihd.net/i/html5_01@182967/index_1000_av-p.m3u8?
+#EXTINF:-1 tvg-id="FATV (US)" tvg-logo="https://images.squarespace-cdn.com/content/v1/58211522414fb52a34ef47c8/1491496233542-J4UANGII7FHAHECV4H8P/New_FATV_Logo_HiRes-2.png"  group-title="AKAMAI-TV",FATV (US)
+https://t04865-lh.akamaihd.net/i/t04865a_1@569562/index_3000000_av-p.m3u8
+#EXTINF:-1 tvg-id="GOD TV (US)" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png"  group-title="AKAMAI-TV",GOD TV (US)
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 tvv-id="GOD TV (AU)" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png"  group-title="AKAMAI-TV",GOD TV (AU)
+https://zypelive-lh.akamaihd.net/i/default_1@745546/master.m3u8?6pLKMQ3y=pLK0uw32&F38b1dF4=624d77cb397cf0000126c1fc&dw=10800&video_id=5c35f39a5c7bfd130e0056b0&hdnts=exp%3D1649330507%7Eacl%3D%2F*%40745546%2F*%7Ehmac%3Dc0bf8300c4128a0f028aa2dcdb55840b1b032a9eb76f3e03604aebc4dc77d7c2
 
 
 
