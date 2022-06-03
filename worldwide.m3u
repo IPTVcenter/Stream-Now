@@ -588,9 +588,25 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_
 #EXTINF:-1 tvg-id="YAHOO (UK)" tvg-logo="https://pbs.twimg.com/media/EujRwX_UcAI6Hkr.jpg"  group-title="NET-TV",YAHOO (UK)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GUBBARE" tvg-logo="https://www.epicon.in/img/gubbare-logo.png"  group-title="EPIC-ON",GUBBARE (IN)
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-id="ISHARA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Og3UVpn9.png"  group-title="EPIC-ON",ISHARA (IN)
+https://epiconvh.s.llnwi.net/ishaara/master.m3u8
+#EXTINF:-1 tvg-id="EPIC" tvg-logo="https://images.livemint.com/img/2021/12/08/1600x900/thumbnail_Epic_Logo_with__Black_background_1638938328526_1638938345893.jpg"   group-title="EPIC-ON",EPIC (IN)
+https://epiconvh.s.llnwi.net/epic/master.m3u8
+#EXTINF:-1 tvg-id="SHOW BOX" tvg-logo="https://www.epicon.in/img_m/new-show-box-logo.png"  group-title="EPIC-ON",SHOW BOX (IN)
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-
-
+#EXTINF:-1 tvg-id="FILMY (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/1200px-Sahara-filmi-tv-logo.svg.png"  group-title="MX-TV",FILMY (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1 tvg-id="FIRANGI (IN)" tvg-logo="https://1.bp.blogspot.com/-afq8mSGUMdc/Ub78RIyBLrI/AAAAAAAAHdo/7rEiji_EeoM/w640/firangi.jpg"  group-title="MX-TV",FIRANGI (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
+#EXTINF:-1 tvg-id="BIXFLIX MOVIES (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg"  group-title="MX-TV",BIXFLIX MOVIES (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-id="BOX CINEMA (IN)" tvg-logo="http://boxcinemedia.com/assets/img/logo.png"  group-title="MX-TV",BOX CINEMA (IN)
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:-1 tvg-id="MANORANJAN MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg"  group-title="MX-TV",MANORANJAN MOVIES (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 
 
 
