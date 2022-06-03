@@ -1117,9 +1117,40 @@ http://208.86.19.13:81/735.stream/index.m3u8
 http://208.86.19.13:81/111.stream/index.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS SELECT 2" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5989affc420c3c1917b60341/1600329108394/Star-Sports-Select-2_logo.png"  group-title="STREAM",STAR SPORTS SELECT 2 (IN)
 http://208.86.19.13:81/737.stream/index.m3u8
-
-
-
+#EXTINF:-1 tvg-id="MUSIC INDIA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/DgohqQfU.png"  group-title="STREAM",MUSIC INDIA (IN)
+http://208.86.19.13:81/733.stream/index.m3u8
+#EXTINF:-1 tvg-id="WILLOW HD" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png"  group-title="STREAM",WILLOW HD (US)
+http://208.86.19.13:81/731.stream/index.m3u8
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Zee-Classic-Logo.jpg"  group-title="STREAM",ZEE CLASSIC (IN)
+http://208.86.19.13:81/730.stream/index.m3u8
+#EXTINF:-1 tvg-id="REPUBLIC TV" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GocT3naX.png"  group-title="STREAM",REPUBLIC TV (IN)
+http://208.86.19.13:81/727.stream/index.m3u8
+#EXTINF:-1 tvg-id="UTV HD" tvg-logo="https://cdn.gadgets360.com/content/assets/channels/utv-hd.jpg"  group-title="STREAM",UTV HD (IN)
+http://208.86.19.13:81/723.stream/index.m3u8
+#EXTINF:-1 tvg-id="E24" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-207/list/09207e24.jpg"  group-title="STREAM",E24 (IN)
+http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF:-1 tvg-id="ULTRA HD" tvg-logo=" "  group-title="STREAM",ULTRA HD (PK)
+http://208.86.19.13:81/718.stream/index.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/RHbtDeRj.png"  group-title="STREAM",STAR GOLD HD (IN)
+http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1 tvg-id="WION" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/rtFcXqpX.png"  group-title="STREAM",WION (IN)
+http://208.86.19.13:81/714.stream/index.m3u8
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/o4akKNIp.png"  group-title="STREAM",SONY SAB HD (IN)
+http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Lad3I4Yq.png"  group-title="STREAM",SONY MAX HD (IN)
+http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD SELECT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/SGSHD.jpg"  group-title="STREAM",STAR GOLD SELECT HD (IN)
+http://208.86.19.13:81/709.stream/index.m3u8
+#EXTINF:-1 tvg-id="TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png"  group-title="STREAM",TEN SPORTS (PK)
+http://208.86.19.13:81/711.stream/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM", (IN)
+ 
+#EXTINF:-1 tvg-id="STAR MOVIES HD (IN)" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png"  group-title="LOCKLE",STAR MOVIES HD (IN)
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="COLORS HD (IN)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cWdPghnG.png"   group-title="LOCKLE",COLORS HD (IN)
+http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD (IN)" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"   group-title="LOCKLE",STAR PLUS HD (IN)
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 
 
 
