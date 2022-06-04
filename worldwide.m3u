@@ -597,6 +597,9 @@ https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:-1 tvg-id="SHOW BOX" tvg-logo="https://www.epicon.in/img_m/new-show-box-logo.png"  group-title="EPIC-ON",SHOW BOX (IN)
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
+
+#EXTINF:-1 tvg-id="INSIGHT TV (IN)" tvg-logo="https://pbs.twimg.com/profile_images/1251164850278985733/czPfgXiI_400x400.jpg"  group-title="MX-TV",INSIGHT TV (IN)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-mxplayer/playlist.m3u8?app_bundle=com.innovation.mxplayer_8064.InsightTV.in&app_name=MXPlayer&app_store_url=https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&genre=GD&coppa=Kids&iab=IAB1-7
 #EXTINF:-1 tvg-id="FILMY (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/1200px-Sahara-filmi-tv-logo.svg.png"  group-title="MX-TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:-1 tvg-id="FIRANGI (IN)" tvg-logo="https://1.bp.blogspot.com/-afq8mSGUMdc/Ub78RIyBLrI/AAAAAAAAHdo/7rEiji_EeoM/w640/firangi.jpg"  group-title="MX-TV",FIRANGI (IN)
