@@ -606,8 +606,6 @@ https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
 #EXTINF:-1 tvg-id="BIXFLIX MOVIES (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg"  group-title="MX-TV",BIXFLIX MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 tvg-id="BOX CINEMA (IN)" tvg-logo="http://boxcinemedia.com/assets/img/logo.png"  group-title="MX-TV",BOX CINEMA (IN)
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:-1 tvg-id="MANORANJAN MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg"  group-title="MX-TV",MANORANJAN MOVIES (IN)
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-id="MAHA MOVIE (IN)" tvg-logo="https://dishnews.in/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-01-at-4.43.02-PM-300x169.jpeg"  group-title="MX-TV",MAHA MOVIE (IN)
@@ -823,8 +821,6 @@ http://14.199.164.20:4001/play/a0qw/index.m3u8
 http://14.199.164.20:4001/play/a0nd/index.m3u8
 #EXTINF:-1 tvg-id="BFLIX MOVIES" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/OzLvAT5S.png"  group-title="PLAY",BFLIX MOVIES (IN)
 http://14.199.164.20:4001/play/a0pd/index.m3u8
-#EXTINF:-1 tvg-id="BOX CINEMA" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/pv6f1sak.png"  group-title="PLAY",BOC CINEMA (IN)
-http://14.199.164.20:4001/play/a0su/index.m3u8
 #EXTINF:-1 tvg-id="BHARAT SAMACHAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Bharat_Samachar_Logo.jpg"  group-title="PLAY",BHARAT SAMACHAR (IN)
 http://14.199.164.20:4001/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-id="CHANNEL WIN" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jk6lvnn4.png"  group-title="PLAY",CHANNEL WIN (IN)
@@ -988,8 +984,20 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Aaj_Tak&q=400&e=junk.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_News&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-id="DY 365" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Vtn7CptZ.png"  group-title="JIO-TV",DY 365 (IN)
 http://103.139.171.5:5001/jiotvplus/live.php?c=DY_365&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://i.pinimg.com/originals/aa/4f/cc/aa4fcc60a651fa8d790513d7f0a680e3.png"  group-title="JIO-TV",DISCOVERY (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Channel_Hindi&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="ATRANGII TV" tvg-logo="https://www.cineblues.com/uploads/article/atrangii---a-new-hindi-general-entertainment-television-channel-by-vibhu-agarwal-20220427170609595.jpg"  group-title="JIO-TV",ATRANGII TV (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Box_Cinema&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="RAMDHENU" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/56ae20528ead0e9c3a8b45d5/1565806593927/56ae20528ead0e9c3a8b45d5.jpg"  group-title="JIO-TV",RAMDHENU (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Ramdhenu&q=400&e=junk.m3u8
+#EXTINF:-1 tvg-id="INDRADHANU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Indradhanu.jpeg"  group-title="JIO-TV",INDRADHANU (IN)
+http://103.139.171.5:5001/jiotvplus/live.php?c=Indradhanu&q=400&e=junk.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
- 
+
+
+
+
 #EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/R98nqztx.png"  group-title="DIRECT-TV",STAR BHARAT HD (IN)
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"  group-title="DIRECT-TV",STAR PLUS HD (IN)
