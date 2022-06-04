@@ -707,11 +707,6 @@ https://m-c049-j2apps.s.llnwi.net/hls/8052.SharnamTV.in.m3u8
 https://m-c06-j2apps.s.llnwi.net/hls/8051.Sanskriti24X7.in.m3u8
 #EXTINF:-1 tvg-id="ANJAN TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Anjan.jpg"  group-title="MX-TV",ANJAN TV (IN)
 https://m-c03-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
-#EXTINF:-1 tvg-id="PRIME TV (IN)" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/a53630fc-fa32-40d7-ac7d-233c550ed0d2.jpg" group-title="MX-TV",PRIME TV (IN)
-https://m-c04-j2apps.s.llnwi.net/hls/8040.PrimeTV.in.m3u8
-#EXTINF:-1 tvg-id="PT NEWS (IN)" tvg-logo=" "  group-title="MX-TV",PT NEWS (IN)
-https://m-c29-j2apps.s.llnwi.net/hls/8036.PTNews.in.m3u8
-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-mxplayer/playlist.m3u8?app_bundle=com.innovation.mxplayer_8064.InsightTV.in&app_name=MXPlayer&app_store_url=https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&genre=GD&coppa=Kids&iab=IAB1-7
 #EXTINF:-1 tvg-id="VEDANT TV (IN)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Vedant_TV.jpeg"  group-title="MX-TV",VEDANT TV (IN)
 https://m-c05-j2apps.s.llnwi.net/hls/8031.VedantTV.in.m3u8
 #EXTINF:-1 tvg-id="JANTANTRA TV (IN)" tvg-logo="https://www.jantantratv.com/wp-content/uploads/2020/11/Jantantra-TV-Logo.png"  group-title="MX-TV",JANTANTRA TV (IN)
