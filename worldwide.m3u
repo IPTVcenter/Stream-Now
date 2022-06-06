@@ -453,6 +453,27 @@ https://v-ny.mybtv.net/live/562.m3u8
 https://v-ny.mybtv.net/live/559.m3u8
 #EXTINF:-1 tvg-id=" (US)" tvg-logo=""  group-title="MYBTV",  (US)
 
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png"  group-title="RANA-PK",ZEE TV HD  (IN)
+https://ranapkz5.1.mywebsites.link/play.php?c=0-9-zeetvhd
+#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/640px-Zee_news.svg.png"  group-title="RANA-PK",ZEE NEWS  (IN)
+https://ranapkz5.1.mywebsites.link/play.php?c=0-9-zeenews
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=""  group-title="RANA-PK",ZEE CINEMA HD  (IN)
+https://ranapkz5.1.mywebsites.link/play.php?c=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="ZING" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-zing/channel_list/1170x658withlogo895666865.png"  group-title="RANA-PK",ZING (IN)
+https://ranapkz5.1.mywebsites.link/play.php?c=0-9-zing
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png"  group-title="RANA-PK",AND TV HD (IN)
+https://ranapkz5.1.mywebsites.link/play.php?c=0-9-tvhd_0
+#EXTINF:-1 tvg-id="ZEE BUSINESS" tvg-logo=""  group-title="RANA-PK",ZEE BUSINESS (IN)
+https://ranapkz5.1.mywebsites.link/play.php?c=0-9-zeebusiness
+#EXTINF:-1 tvg-id="AND PICTURES HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png"  group-title="RANA-PK",AND PICTURES HD  (IN)
+https://ranapkz5.1.mywebsites.link/play.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="ZEE ZEST HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-348/channel_list/1170x658withlog2096037619.png"  group-title="RANA-PK",ZEE ZEST HD (IN)
+https://ranapkz5.1.mywebsites.link/play.php?c=0-9-348
+#EXTINF:-1 tvg-id="AND FLIX HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png"  group-title="RANA-PK",AND FLIX HD (IN)
+https://ranapkz5.1.mywebsites.link/play.php?c=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="RANA-PK",  (IN)
+
+
 #EXTINF:-1 tvg-id="MADNI TV (UK)" tvg-logo="https://pbs.twimg.com/profile_images/817625656855031810/6SaYFqhT.jpg"  group-title="NET-TV",MADNI TV (UK)
 https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/madnitvenglish/madnienglish_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="BKIDS HD (ID)" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg"   group-title="NET-TV",BKIDS HD (ID)
