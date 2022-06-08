@@ -1029,7 +1029,7 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Indradhanu&q=400&e=junk.m3u8
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"  group-title="DIRECT-TV",STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/1170x658withlogo399683415.png"  group-title="DIRECT-TV",ZEE TV (UK)
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_397/PORTRAIT/xGC5xbxg.png"  group-title="DIRECT-TV",ZEE TV (UK)
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/1170x658withlogo399683415.png"  group-title="DIRECT-TV",ZEE TV HD (IN)
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
@@ -1319,9 +1319,8 @@ http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34496?play_token=O3ewlRqRvM&toke
 #EXTINF:-1 tvg-id="S  tvg-logo=" "  group-title="IPTV", (IN)
 
 
-
-
-
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg"  group-title="IPTV",ZEE TV (APAC)
+http://45.86.190.64:25461/Q8pknKa1m6/Vd3GwsyG2F/34515?play_token=H08hansPyg&token=TURYAhZYEAwSAVcGCQFWVAVVVF4PCgUBVAddBl5YX1wFXlEBBAECBQlGTxBLF0AGVA9uD1IbCQUFAlYDShsTFlMUbwoBEggUBVJXCw5QEE8XFlgLUxsJBwcHUQZTClFWDkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 
 
 
