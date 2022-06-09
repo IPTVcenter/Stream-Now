@@ -778,10 +778,12 @@ https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png"  group-title="FPT-PLAY",CNBC (VN)
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist.m3u8
 
+
 #EXTINF:-1 tvg-id="AAJ TAK HD" tvg-logo="https://www.sanusa.in/assets/img/content/aajatak.jpg"  group-title="FEEDS-TV",AAJ TAK HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="INDIA TODAY" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GwmEMW18.png"  group-title="FEEDS-TV",INDIA TODAY (IN)
 https://feeds.intoday.in/hltapps/api/master.m3u8
+
 
 #EXTINF:-1 tvg-id="SAHARA FLIMY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/2560px-Sahara-filmi-tv-logo.svg.png"  group-title="PLAYBOX-TV",SAHARA FLIMY (IN)
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
@@ -793,6 +795,7 @@ http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="PLAYBOX-TV", (IN)
 
+
 #EXTINF:-1 tvg-id="CHANNEL 24 HD" tvg-logo="https://www.qurbanionline.com/wp-content/uploads/2018/08/24_News.jpg"  group-title="STREAM-ONE",CHANNEL 24 HD (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/channel24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg"  group-title="STREAM-ONE",NEO NEWS HD (PK)
@@ -801,15 +804,17 @@ https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Play_Entertainment_logo.png"  group-title="STREAM-ONE",PLAY (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AAJ ENT." tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png"  group-title="STREAM-ONE",AAJ WNT. (PK)
+#EXTINF:-1 tvg-id="AAJ ENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png"  group-title="STREAM-ONE",AAJ ENT (PK)
 https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="STREAM-ONE", (PK)
+
 
 #EXTINF:-1 tvg-id="AST TV 1" tvg-logo="https://file.lives-score.com/images/channelimg/15716.jpg"  group-title="AST-TV",AST TV 1 (CY)
 http://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="AST TV 2" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png"  group-title="AST-TV",AST TV 2 (CY)
 http://www.ast.tv/stream/2/cellular.m3u8
  
+
 #EXTINF:-1 tvg-id="GAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/GAY.tv.PNG"  group-title="IPTVXXX-NET",GAY TV (UK)
 http://play.iptvxxx.net/gay.m3u8
 #EXTINF:-1 tvg-id="GANGBANG" tvg-logo=" "  group-title="IPTVXXX-NET",GANGBANG (UK)
@@ -817,6 +822,7 @@ http://play.iptvxxx.net/gangbang.m3u8
 #EXTINF:-1 tvg-id="LIVE CAMS" tvg-logo=" "  group-title="IPTVXXX-NET",LIVE CAMS (UK)
 http://play.iptvxxx.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="IPTVXXX-NET", (UK)
+
 
 #EXTINF:-1 tvg-id="E24" tvg-logo="http://e24bollywood.com/wp-content/uploads/2022/03/Untitled-design-48.png"  group-title="PLAY",E24 (IN)
 http://14.199.164.20:4001/play/a0pc/index.m3u8
@@ -1019,9 +1025,7 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Box_Cinema&q=400&e=junk.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Ramdhenu&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-id="INDRADHANU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Indradhanu.jpeg"  group-title="JIO-TV",INDRADHANU (IN)
 http://103.139.171.5:5001/jiotvplus/live.php?c=Indradhanu&q=400&e=junk.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo=" "  group-title="JIO-TV", (IN)
-
 
 
 
@@ -1316,12 +1320,24 @@ http://45.86.190.64:25461/Q8pknKa1m6/Vd3GwsyG2F/34214?play_token=H08hansPyg&toke
 http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34214?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/DE2tvqEA.png"  group-title="IPTV",STAR SPORTS 1 HD (IN)
 http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34496?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#EXTINF:-1 tvg-id="S  tvg-logo=" "  group-title="IPTV", (IN)
-
-
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg"  group-title="IPTV",ZEE TV (APAC)
 http://45.86.190.64:25461/Q8pknKa1m6/Vd3GwsyG2F/34515?play_token=H08hansPyg&token=TURYAhZYEAwSAVcGCQFWVAVVVF4PCgUBVAddBl5YX1wFXlEBBAECBQlGTxBLF0AGVA9uD1IbCQUFAlYDShsTFlMUbwoBEggUBVJXCw5QEE8XFlgLUxsJBwcHUQZTClFWDkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
-
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" "  group-title="IPTV",ANIMAL PLANET (IN)
+http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34481?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" "  group-title="IPTV",ANIMAL PLANET (IN)
+http://45.86.190.64:25461/Q8pknKa1m6/Vd3GwsyG2F/34481?play_token=H08hansPyg&token=TURYAhZYEAwSAVcGCQFWVAVVVF4PCgUBVAddBl5YX1wFXlEBBAECBQlGTxBLF0AGVA9uD1IbCQUFAlYDShsTFlMUbwoBEggUBVJXCw5QEE8XFlgLUxsJBwcHUQZTClFWDkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png"  group-title="IPTV",AND TV HD (US)
+http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34119?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+#EXTINF:-1 tvg-id="AND TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-tvhd_0/list/1170x658withlogo_378606665.jpg"  group-title="IPTV",AND TV HD (IN)
+http://45.86.190.64:25461/Q8pknKa1m6/Vd3GwsyG2F/34479?play_token=H08hansPyg&token=TURYAhZYEAwSAVcGCQFWVAVVVF4PCgUBVAddBl5YX1wFXlEBBAECBQlGTxBLF0AGVA9uD1IbCQUFAlYDShsTFlMUbwoBEggUBVJXCw5QEE8XFlgLUxsJBwcHUQZTClFWDkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"  group-title="IPTV",ZEE TV (IN)
+http://45.86.190.64:25461/Q8pknKa1m6/Vd3GwsyG2F/34170?play_token=H08hansPyg&token=TURYAhZYEAwSAVcGCQFWVAVVVF4PCgUBVAddBl5YX1wFXlEBBAECBQlGTxBLF0AGVA9uD1IbCQUFAlYDShsTFlMUbwoBEggUBVJXCw5QEE8XFlgLUxsJBwcHUQZTClFWDkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/list_clean/1170x658withlogo_860851117.png"  group-title="IPTV",ZEE TV (UK)
+http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34172?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/SET_India_Logo.gif"  group-title="IPTV",SONY (UK)
+http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34153?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/SET_India_Logo.gif"  group-title="IPTV",SONY (UK)
+http://45.86.190.64:25461/Q8pknKa1m6/Vd3GwsyG2F/34153?play_token=H08hansPyg&token=TURYAhZYEAwSAVcGCQFWVAVVVF4PCgUBVAddBl5YX1wFXlEBBAECBQlGTxBLF0AGVA9uD1IbCQUFAlYDShsTFlMUbwoBEggUBVJXCw5QEE8XFlgLUxsJBwcHUQZTClFWDkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 
 
 
