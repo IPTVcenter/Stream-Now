@@ -1033,7 +1033,7 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Indradhanu&q=400&e=junk.m3u8
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="https://1.bp.blogspot.com/-xa7NT1tvZro/YNPXZhXijfI/AAAAAAAAADE/DEZWGMvNa5QfLlHM0DRUSlaAwK1vcd8mACLcBGAsYHQ/w200-h200/PicsArt_06-24-06.15.47.jpg"  group-title="DIRECT-TV",STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_397/PORTRAIT/xGC5xbxg.png"  group-title="DIRECT-TV",ZEE TV (UK)
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"  group-title="DIRECT-TV",ZEE TV (UK)
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list_clean/1170x658withlogo399683415.png"  group-title="DIRECT-TV",ZEE TV HD (IN)
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
